@@ -1,0 +1,10 @@
+openai
+pandas
+numpy
+flask
+psutil
+fastmcp
+win32api
+win32con
+numpy
+os
